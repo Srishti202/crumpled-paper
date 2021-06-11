@@ -4,7 +4,7 @@ class Paper
 	{
 		var options={
 			isStatic:false	,
-			density:0.7,
+			density:1.5,
             restitution : 0.6		
 			}
             this.image = loadImage("paper.png")
